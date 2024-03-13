@@ -14,3 +14,4 @@ if (content && darkMode) {
         content.classList.toggle('night');
     });
 }
+
